@@ -1,0 +1,10 @@
+{
+  "name": "besu-dl",
+  "version": "1.4.7",
+  "description": "besu download repo",
+  "main": "index.js",
+  "repository": "https://github.com/freight-trust/besu-dl.git",
+  "author": "sam@freighttrust.com <sam@freighttrust.com>",
+  "license": "MIT",
+  "private": false
+}
